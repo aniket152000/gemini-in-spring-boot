@@ -1,0 +1,10 @@
+spring:
+  application:
+     name: gemini-and-springboot
+
+
+gemini:
+  api:
+    project-id: primal-surfer-434109-q4
+    location: us-central1
+    modelName: gemini-1.5-flash-001
